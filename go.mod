@@ -7,7 +7,7 @@ replace (
 	github.com/Mirantis/cri-dockerd => github.com/k3s-io/cri-dockerd v0.2.4-0.20220729204449-bcbb75d5abff // k3s-master
 	github.com/cloudnativelabs/kube-router => github.com/k3s-io/kube-router v1.5.1-0.20220630214451-a43bcd8511d2
 	github.com/containerd/cgroups => github.com/containerd/cgroups v1.0.1
-	github.com/containerd/containerd => github.com/guptavinayak11/containerd guptavinayak/v1.5.13-k3s1 // k3s-release/1.5
+	github.com/containerd/containerd => github.com/guptavinayak11/containerd v1.5.14-0.20230311100541-d1bb18d6c070 // k3s-release/1.5
 	github.com/coreos/go-systemd => github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e
 	github.com/docker/distribution => github.com/docker/distribution v2.8.1+incompatible
 	github.com/docker/docker => github.com/docker/docker v20.10.12+incompatible

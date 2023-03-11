@@ -599,6 +599,8 @@ github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFb
 github.com/gruntwork-io/go-commons v0.8.0/go.mod h1:gtp0yTtIBExIZp7vyIV9I0XQkVwiQZze678hvDXof78=
 github.com/gruntwork-io/terratest v0.40.6 h1:kBYzD9gcQoruAoV9vmVLk8kjuZAUI5U72h9IAogL/iI=
 github.com/gruntwork-io/terratest v0.40.6/go.mod h1:CjHsEgP1Pe987X5N8K5qEqCuLtu1bqERGIAF8bTj1s0=
+github.com/guptavinayak11/containerd v1.5.14-0.20230311100541-d1bb18d6c070 h1:juf2tSGZL5MovGcaSccigPauoe/qWawb4yoDkD6B1Ss=
+github.com/guptavinayak11/containerd v1.5.14-0.20230311100541-d1bb18d6c070/go.mod h1:zUdlwwmj8Xwd65Wz+vPGjonBN3FFAkSGwRloPefnNN4=
 github.com/hanwen/go-fuse/v2 v2.1.1-0.20220112183258-f57e95bda82d h1:ibbzF2InxMOS+lLCphY9PHNKPURDUBNKaG6ErSq8gJQ=
 github.com/hanwen/go-fuse/v2 v2.1.1-0.20220112183258-f57e95bda82d/go.mod h1:B1nGE/6RBFyBRC1RRnf23UpwCdyJ31eukw34oAKukAc=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
@@ -706,8 +708,6 @@ github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7V
 github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
 github.com/jung-kurt/gofpdf v1.0.3-0.20190309125859-24315acbbda5/go.mod h1:7Id9E/uU8ce6rXgefFLlgrJj/GYY22cpxn+r32jIOes=
 github.com/k-sone/critbitgo v1.4.0/go.mod h1:7E6pyoyADnFxlUBEKcnfS49b7SUAQGMK+OAp/UQvo0s=
-github.com/k3s-io/containerd v1.5.13-k3s1 h1:a5qvrZZ5u4dn65XVajzLGUeUGiBXSE5qos3xF4BdRc4=
-github.com/k3s-io/containerd v1.5.13-k3s1/go.mod h1:zUdlwwmj8Xwd65Wz+vPGjonBN3FFAkSGwRloPefnNN4=
 github.com/k3s-io/cri-dockerd v0.2.4-0.20220729204449-bcbb75d5abff h1:iyPObk0AH8KArYJ8AEpe5CfJQ2W8ffRbyKMETtT2NwI=
 github.com/k3s-io/cri-dockerd v0.2.4-0.20220729204449-bcbb75d5abff/go.mod h1:2SAxAoj3lTHgTDwxGcpxUrKEbIWWrCFwNRMbPBR3U7E=
 github.com/k3s-io/cri-tools v1.24.0-k3s1 h1:Em7IZ/ElBFbHlPLjV0w2ttORxFl5upBxnbP/9IlT/3c=
